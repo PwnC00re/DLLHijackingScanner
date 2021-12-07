@@ -1,5 +1,9 @@
 # UAC bypass - DLL hijacking 
 
+
+# Telegram
+(https://t.me/vPwnd)
+
 ## Description
 
 This is a PoC for bypassing [UAC](https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/how-user-account-control-works) using [DLL hijacking](https://attack.mitre.org/techniques/T1574/001/) and abusing the "Trusted Directories" verification. 
